@@ -1,6 +1,6 @@
 # Make Kots Great Again - WIKI
 
-:exclamation: Ce repository contient uniquement toute la wiki de notre projet et ce au travers des 3 répositrys qui le compose. 
+:exclamation: Ce repository contient **uniquement** toute la wiki de notre projet et ce au travers des **3** repos qui le compose. 
 
 ## Liens utiles: 
 
